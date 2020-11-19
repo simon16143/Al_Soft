@@ -1,0 +1,23 @@
+step 1:
+ubicar el icono de siesa pos, click derecho ubicacion de la aplicacion, se copia y se pega en el explorador de windows.
+
+step 2:
+una vez en la aplicación, click carpeta SiesaPOSEE,click carpeta utiles.
+
+step 3:
+pegar la carpeta de Redeban Act  en esa carpeta utiles.
+
+step 4:
+open a la caperta Redeban Act..el archivo config click derecho se abre en txt y se verifica que el puerto esté en el número 3.
+
+step 5:
+Se verifica que el otro archivo config esté también en el puerto 3.
+
+step 6:
+ahora debemos actualizar para que siesa identifique el dispositivo. Nos vamos a Disco D -> Aplicaciones -> SIESAPOS -> SIESAPOSDevices.
+
+step 7:
+click archivo UnoEPOSDispositivos, busco pestaña 11 -> Redeban Multicolor y le doy la Ruta..(La ruta que coloco es la misma donde aloje la carpeta Redeban Act) puedo copiarla desde el navegador de Windows. Nombre lógico = DAT1 click asignar.
+
+step 8:
+click sobre el diskette y exportar el archivo -> SiesaEEHost y SiesaPosEE.
