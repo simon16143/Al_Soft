@@ -1,0 +1,30 @@
+#maestros comercial:
+Bodegas:19302 el sufijo 01 es el producto terminado. Dentro de las bodegas también hay costos que es la encargada del costo del producto.
+Items:La configuración la realiza el área de costos, ingresamos solo para consultas. En parámetros se valida si esta activo, inactivo o bloqueada.El item 001 no pueden entrar a la bodega de planta engativa, debe caer a una bodega de logística.
+Codigos de barra.Peso fijo 770, peso variable 2944308.
+
+#Ventas:
+Remisiones:RVB , en cedialiar hay una opción de todas las remisiones sin facturar, se factura solo con la remision creada.
+ventas->facturas->facturas Directas, reviso la factura
+consultas y reportes(todos los modulos tienen consulta, para mirar el reporte del unoe)->pedidos->193, para mirar las ventas por CO->muñequitos muestra todos los reportes de todos los usuarios
+Consulta planilla de cuadre->mirar los documentos de transporte
+
+#Invetarios:
+TRA: transferencias directas, movimiento de una bodega a otra, La TRU generado por cedialiar genera una TRA al cerrar el traslado, para saber si esta duplicado una TRU se asocia con dos TRA.
+TRS: Transferencias en transito de salida, cuando el producto va en una mula de una regional a otra
+TRE:Documento de entrada hacia una bodega.
+TRM:Control de canastilla
+Transferencia de entrada/salida:crear una TRE y asociarla a una TRS.
+Consultas y reportes->Auditoria de inventarios->auditoria de documento:Transferencia en una fecha específica.
+consultas y reportes->transferencias en transito:Validar que productos van en transito
+Consultas y reportes->Existencias a la fecha por bodega:conocer que productos tengo a la fecha actual en una bodega determinada
+Consultas y reportes->Existencias a un corte:de obtiene informacion de un inventario en una bodega en una fecha especificada(colocada por el usuario
+Consutltas y reportes->Kardex por bodega:se utiliza para verificar existencias en bodega, evaluar movimientos en una referencia y una bodega especifica, es una busqueda mas específica por referencia.
+
+
+
+
+
+#POS:
+Estado de las TPV verificar que todas las cajas esten cerradas para acumular.
+
