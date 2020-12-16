@@ -1,0 +1,8 @@
+1.- Para que a un usuario se le puedan asignar actividades de mantenimiento el
+tipo de cargo debe ser personal de manteniento.
+2.- En caso de que un supervisor necesite que se le asignen activades de
+mantenimento y ordenes de trabajo debe tener un TIPO DE CARGO de personal de
+mantenimiento
+3.-Ruta:Talento Humano->Cargos->Lista de cargos->Selecciono el cargo->Editar->y
+modifico el tipo para que aparezca dentro del personal suceptible de recibir
+asignaciones de mantenimiento.
