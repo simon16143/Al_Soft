@@ -1,3 +1,6 @@
+
+
+
 step 1:
 ubicar el icono de siesa pos, click derecho ubicacion de la aplicacion, se copia y se pega en el explorador de windows.
 
@@ -21,3 +24,7 @@ click archivo UnoEPOSDispositivos, busco pestaña 11 -> Redeban Multicolor y le 
 
 step 8:
 click sobre el diskette y exportar el archivo -> SiesaEEHost y SiesaPosEE.
+
+step9:
+Revisar el administrador de dispositivos que este en el puerto 3
+t
