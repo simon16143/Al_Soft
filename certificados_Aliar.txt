@@ -1,0 +1,20 @@
+1 .- Carpeta certificados en el Drive, se descarga dependiendo de la que estan
+solicitado.
+
+2.- Una vez descargado se descomprime
+
+3.- Abro el winscp
+
+4.- Busco la carpeta con los archivos desde el winscp y lo paso a la siguiente
+ruta:
+usr/share/nginx/html/aliarweb/certificados/arhivos pdf
+
+5.- Dependiendo del nombre de la carpeta se escoge Reteiva, Reteica, o
+Retefuente y se selecciona el a#o
+
+6.- Una vez que pasen todos los archivos copiados se verifica desde el
+aplicativo web
+http://certificados.aliar.com.co/login.php
+
+7.- Si se requiere crear una carpeta período o a#o vemos la configuración del
+a#o anterior para copiarnos
