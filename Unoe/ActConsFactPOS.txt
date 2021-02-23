@@ -1,0 +1,25 @@
+    -----ACTUALIZACION CONSECUTIVO FACTURAS--------
+PASO1:
+Cerrar caja, acumular, si tiene facturas congeladas(descongelarlas) y dejar la caja en 0 sin volver abrir.
+
+PASO2:
+Ir al drive abrir el archivo de spreadsheet DIAN Resoluciones y ubicar el punto de venta
+
+PASO3:
+tomo el co y el tipo de documento.
+
+PASO4:
+ubico el ultimo documento de ese tipo (Factura punto de venta)por ejemplo actualmente yopal es el ultimo con F48.
+
+PASO5:
+Me voy al unoe Pos central -> maestros -> Documentos -> Tipos de documentos , coloco el documento de factura del punto de venta y le doy a la lupa, duplico colocando como nuevo documento el ultimo consecutivo.
+
+PASO6:
+coloco el consecutivo inicial y el final, y cual es el siguiente numero..luego coloco el prefijo y el nro de resolucion.
+
+PASO7:
+Ahora debo configurar para que el pos tome el nuevo documento. Pos->terminal punto de venta -> selecciono la tpv del punto de venta -> clase de documentos coloco ahora el documento que duplique y luego en formato coloco PF0108
+
+PASO8:
+Me conecto al punto de venta me voy a ajustes -> consecutivos ->verificamos que el consecutivo este correcto y que se haya actualizado el prefijo y el tipo de documento.
+
